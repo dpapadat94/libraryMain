@@ -56,7 +56,7 @@ class Library {
         name="read"
         id="checkbox"
         checked
-        
+        disabled
         />
     </td>
   </tr>`
